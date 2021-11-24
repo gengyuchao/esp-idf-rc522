@@ -42,6 +42,13 @@ void app_main(void) {
 
 ## Author
 
+Me
+
+GitHub: [gengyuchao](https://github.com/gengyuchao)<br>
+Homepage: [gengyuchao.github.io](https://gengyuchao.github.io/)
+
+Original author
+
 GitHub: [abobija](https://github.com/abobija)<br>
 Homepage: [abobija.com](https://abobija.com)
 
