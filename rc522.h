@@ -5,6 +5,7 @@ extern "C" {
 #endif
 
 #include "driver/spi_master.h"
+#include "rc522_cmd.h"
 
 #define RC522_DEFAULT_MISO                 (25)
 #define RC522_DEFAULT_MOSI                 (23)
